@@ -150,20 +150,20 @@ span{
     cursor: pointer;
 }
 .details #d1{
-    background-image: url(l2.jpeg);
+    background-image: url(images/l2.jpeg);
     background-position: center;
     background-size: cover;
       background-repeat: no-repeat;
       
 }
 .details #d2{
-    background-image: url(l1.jpeg);
+    background-image: url(images/l1.jpeg);
     background-position: center;
     background-size: cover;
       background-repeat: no-repeat;
 }
 .details #d3{
-    background-image: url(l3.jpeg);
+    background-image: url(images/l3.jpeg);
     background-position: center;
     background-size: cover;
       background-repeat: no-repeat;
